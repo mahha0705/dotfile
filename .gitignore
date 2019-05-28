@@ -1,0 +1,16 @@
+# Ignore all files
+/*
+
+# Ignore files that include dot in name
+/.*
+
+
+# TARGETS
+!/.gitignore
+!/fish
+!/fish/functions
+!/fish/config.fish
+!/fisher
+
+
+# Ignore from TARGETS
